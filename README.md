@@ -5,7 +5,7 @@
 🌱 Aprendendo: React Native e Testes Automatizados  
 ⚡ Curiosidade: Amo ver filmes e ler livros!
 
-## 🛠️ Linguagens e ferramentas
+## 🛠️ Minha habilidades
 
 **Front-End:**  
 <div style="display: inline_block">
