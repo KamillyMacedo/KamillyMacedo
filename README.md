@@ -1,7 +1,6 @@
 # Olá, eu sou a Kamilly Macedo 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na PUC-MG
-
 🚀 Foco atual: Desenvolvimento Full Stack  
 🌱 Aprendendo: React Native e Testes Automatizados  
 ⚡ Curiosidade: Amo ver filmes e ler livros!
